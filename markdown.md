@@ -28,7 +28,9 @@ My fields of interest include (but are not limited to):
  * heap-manipulating imperative programs with a focus on Java Bytecode
  * term rewriting systems
  * integer programs
+
 * abstract interpretation and symbolic evaluation
+
 * program verification
 
 ## Publications
