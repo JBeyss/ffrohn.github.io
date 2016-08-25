@@ -25,12 +25,10 @@ My fields of interest include (but are not limited to):
 
 
 * automated termination and complexity analysis of
- * heap-manipulating imperative programs with a focus on Java Bytecode
- * term rewriting systems
- * integer programs
-
+  * heap-manipulating imperative programs with a focus on Java Bytecode
+  * term rewriting systems
+  * integer programs
 * abstract interpretation and symbolic evaluation
-
 * program verification
 
 ## Publications
