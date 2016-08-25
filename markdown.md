@@ -64,3 +64,19 @@ My fields of interest include (but are not limited to):
   In Proceedings of the 7th International Joint Conference on Automated Reasoning (IJCAR '14), Vienna, Austria, Lecture Notes in Artificial Intelligence 8562, pages 184-191, 2014. ©[Springer-Verlag](http://www.springer.de/comp/lncs/index.html) 
 
 ## Teaching
+
+* Vorlesung Formale Systeme, Automaten, Prozesse, SS 16
+* Proseminar [Fortgeschrittene Programmierkonzepte (Advanced Programming Concepts), SS 16](http://verify.rwth-aachen.de/proseminar/PK16)
+* Seminar [Satisfiability Checking, SS 16](http://verify.rwth-aachen.de/seminar/SAT16)
+* Vorlesung [Termersetzungssysteme (Term Rewriting Systems), WS 15/16](http://verify.rwth-aachen.de/tes15/)
+* Seminar [Termersetzungssysteme - Aktuelle Themen und Erweiterungen (Advanced Topics in Term Rewriting), WS 15/16](http://verify.rwth-aachen.de/seminar/TES15)
+* Proseminar [Fortgeschrittene Programmierkonzepte (Advanced Programming Concepts), WS 15/16](http://verify.rwth-aachen.de/proseminar/PK1516)
+* Vorlesung [Formale Systeme, Automaten, Prozesse, SS 15](http://www.lii.rwth-aachen.de/en/lehre/8-lehre/82-formale-systeme-automaten-prozesse-ss15.html)
+* Proseminar [Fortgeschrittene Programmierkonzepte in Java, Haskell und Prolog (Advanced Programming Concepts in Java, Haskell, and Prolog), SS 15](http://verify.rwth-aachen.de/proseminar/PK15)
+* Seminar [Satisfiability Checking, SS 15](http://verify.rwth-aachen.de/seminar/SAT15)
+* Vorlesung [Programmierung (Programming Concepts), WS 14/15](http://verify.rwth-aachen.de/programmierungWS14)
+* Seminar [Verifikationsverfahren (Verification Techniques), WS 14/15](http://verify.rwth-aachen.de/seminar/VV14)
+* Vorlesung [Funktionale Programmierung (Functional Programming), SS 14](http://verify.rwth-aachen.de/fp14)
+* Proseminar [Fortgeschrittene Programmierkonzepte in Java, Haskell und Prolog (Advanced Programming Concepts in Java, Haskell, and Prolog), SS 14](http://verify.rwth-aachen.de/proseminar/PK14)
+* Seminar [Satisfiability Checking, SS 14](http://verify.rwth-aachen.de/seminar/SAT14)
+* Vorlesung [Programmierung , WS 13/14](http://tcs.rwth-aachen.de/lehre/Progra/WS2013/)
