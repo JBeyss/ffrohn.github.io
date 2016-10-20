@@ -33,6 +33,23 @@ My fields of interest include (but are not limited to):
 
 ## Publications
 
+* J. Giesl, C. Aschermann, M. Brockschmidt, F. Emmes, F. Frohn, C. Fuhs, J. Hensel, C. Otto, M. Plücker, P. Schneider-Kamp, T. Ströder, S. Swiderski, and R. Thiemann.  
+  Analyzing Program Termination and Complexity Automatically with AProVE  
+  Journal of Automated Reasoning, to appear. ©Springer-Verlag  
+  [Preliminary Version](http://verify.rwth-aachen.de/giesl/papers/JAR-AProVE.pdf)
+
+* T. Ströder, J. Giesl, M. Brockschmidt, F. Frohn, C. Fuhs, J. Hensel, P. Schneider-Kamp, and C. Aschermann  
+  Automatically Proving Termination and Memory Safety for Programs with Pointer Arithmetic  
+  Journal of Automated Reasoning, to appear. ©Springer-Verlag  
+  [Preliminary Version](http://verify.rwth-aachen.de/giesl/papers/JARLLVM.pdf)  
+  [Extended version](http://verify.rwth-aachen.de/giesl/papers/LLVMreport.pdf) appeared as Technical Report AIB-2016-09, RWTH Aachen, Germany.
+
+* F. Frohn, J. Giesl, J. Hensel, C. Aschermann, and T. Ströder  
+  Lower Bounds for Runtime Complexity of Term Rewriting  
+  Journal of Automated Reasoning, to appear. ©Springer-Verlag  
+  [Preliminary Version](http://verify.rwth-aachen.de/giesl/papers/JARLowerBoundsRewriting.pdf)  
+  [Slides](https://ffrohn.github.io/decreasing_loops_slides.pdf) of a related talk.
+
 * F. Frohn, M. Naaf, J. Hensel, M. Brockschmidt, and J. Giesl  
   [Lower Runtime Bounds for Integer Programs](http://verify.rwth-aachen.de/giesl/papers/IJCAR2016.pdf)  
   In Proceedings of the 8th International Joint Conference on Automated Reasoning (IJCAR '16), Coimbra, Portugal, Lecture Notes in Artificial Intelligence 9706, pages 550-567, 2016. ©[Springer-Verlag](http://www.springer.de/comp/lncs/index.html)  
