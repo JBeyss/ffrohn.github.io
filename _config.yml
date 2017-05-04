@@ -19,13 +19,13 @@ pic: pic6.jpg  #place a 100x100 picture inside /assets/images/ folder and provid
 
 #sidebar links
 email: florian.frohn@cs.rwth-aachen.de
-phone: +49-241/80-21214
+phone: +49-241/80-21241
 address: true
 institution: RWTH Aachen
 subinstitution: LuFGI 2
 city: 52056 Aachen
 street: Ahornstraße 55
-room: Room 4208
+room: Room 4209
 #linkedin: alandoe
 github: ffrohn
 #twitter: '@webjeda'
