@@ -27,7 +27,11 @@ h6 {
 }
 
 summary {
-  margin-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+p, details > .item {
+    text-align: justify;
 }
 
 a, summary {
