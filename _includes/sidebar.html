@@ -33,7 +33,8 @@
 
       {% if site.address %}
       <li class="address"><i class="fa fa-road"></i>
-        {% if site.street %} {{site.street}}<br/> {% else %}{% endif %}
+        {% if site.street1 %} {{site.street1}}<br/> {% else %}{% endif %}
+        {% if site.street2 %} <i class="fa fa-road" style="visibility: hidden;"></i> {{site.street2}}<br/> {% else %}{% endif %}
         {% if site.city %} <i class="fa fa-road" style="visibility: hidden;"></i> {{site.city}}<br/> {% else %}{% endif %}
         {% if site.room %} <i class="fa fa-road" style="visibility: hidden;"></i> {{site.room}}<br/> {% else %}{% endif %}
       </li>
