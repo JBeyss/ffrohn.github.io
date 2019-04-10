@@ -20,8 +20,8 @@ pic: pic6.jpg  #place a 100x100 picture inside /assets/images/ folder and provid
 email: prename.surname [at] mpi-inf.mpg.de
 #phone: +49-241/80-21241
 address: true
-institution: MPI-INF
-subinstitution: RG1
+institution: MPI for Informatics
+subinstitution: Research Group 1
 city: 66123 Saarbrücken
 street1: Saarland Informatics Campus
 street2: Building E1 4
