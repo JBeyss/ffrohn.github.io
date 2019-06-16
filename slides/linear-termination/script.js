@@ -188,12 +188,25 @@ function prev() {
     }
 }
 
+var Key_Left = 37;
+var Key_Up = 38;
+var Key_Right = 39;
+var Key_Down = 40;
+var Space = 32;
+var Return = 13;
+
+window.onclick = function(e) {
+    if (e.button == 0) {
+        next();
+    }
+}
+
 window.onkeyup = function(e) {
     var key = e.keyCode ? e.keyCode : e.which;
 
-    if (key == 37 || key == 40) {
+    if (key == Key_Left || key == Key_Down) {
         prev();
-    } else if (key == 38 || key == 39) {
+    } else if (key == Key_Right || key == Key_Up || key == Space || key == Return) {
         next();
     }
 }
