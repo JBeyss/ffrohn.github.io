@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-<?xml-stylesheet href="style.css" type="text/css"?>
 
-<svg
+<?xml-stylesheet href="style.css" type="text/css"?><svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -36,11 +35,11 @@
      inkscape:measure-start="376.282,282.843"
      width="1600mm"
      showgrid="true"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="history5"
      inkscape:document-units="px"
-     inkscape:cy="150.41181"
-     inkscape:cx="243.65384"
-     inkscape:zoom="256"
+     inkscape:cy="210.66164"
+     inkscape:cx="393.763"
+     inkscape:zoom="5.6568543"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1"
@@ -56,13 +55,29 @@
   <defs
      id="defs2">
     <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker6286"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path6284" />
+    </marker>
+    <marker
        inkscape:stockid="Arrow2Lend"
        orient="auto"
        refY="0"
        refX="0"
        id="marker11082"
        style="overflow:visible"
-       inkscape:isstock="true">
+       inkscape:isstock="true"
+       inkscape:collect="always">
       <path
          id="path11080"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
@@ -181,22 +196,6 @@
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path14319-9-3-1" />
-    </marker>
-    <marker
-       inkscape:collect="always"
-       inkscape:stockid="Arrow2Lend"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker16252"
-       style="overflow:visible"
-       inkscape:isstock="true">
-      <path
-         id="path16250"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
-         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:isstock="true"
@@ -398,7 +397,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2685,12 +2684,12 @@
             <path
                inkscape:connector-curvature="0"
                id="path110637-2"
-               d="m 384.96876,48.154193 c 0,7.937497 0,7.937497 0,7.937497"
+               d="m 369.66242,48.154193 c 0,7.937497 0,7.937497 0,7.937497"
                style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
             <path
                inkscape:connector-curvature="0"
                id="path110639-1"
-               d="m 392.90626,48.154193 c 0,7.937497 0,7.937497 0,7.937497"
+               d="m 387.1318,48.154193 c 0,7.937497 0,7.937497 0,7.937497"
                style="display:inline;fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
             <text
                id="text110643-3"
@@ -2702,29 +2701,29 @@
                  style="stroke-width:0.11642086"
                  y="60.201958"
                  x="317.33627"
-                 sodipodi:role="line">'05</tspan></text>
+                 sodipodi:role="line">'06</tspan></text>
             <text
                id="text110647-7"
                y="47.15062"
-               x="381.12231"
+               x="365.81601"
                style="font-style:normal;font-weight:normal;font-size:4.6568346px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11642086"
                xml:space="preserve"><tspan
                  id="tspan110645-3"
                  style="stroke-width:0.11642086"
                  y="47.15062"
-                 x="381.12231"
-                 sodipodi:role="line">'14</tspan></text>
+                 x="365.81601"
+                 sodipodi:role="line">'12</tspan></text>
             <text
                id="text110651-3"
                y="59.36869"
-               x="389.20151"
+               x="383.42706"
                style="font-style:normal;font-weight:normal;font-size:4.6568346px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11642086"
                xml:space="preserve"><tspan
                  id="tspan110649-2"
                  style="stroke-width:0.11642086"
                  y="59.36869"
-                 x="389.20151"
-                 sodipodi:role="line">'15</tspan></text>
+                 x="383.42706"
+                 sodipodi:role="line">'14</tspan></text>
             <text
                id="text110655-3"
                y="47.38908"
@@ -2797,12 +2796,6 @@
                id="tspan15749">    for <tspan
    style="font-style:italic;stroke-width:0.11642086"
    id="tspan15751">some</tspan> diagonalizable matricies A</tspan></text>
-          <path
-             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker16252)"
-             d="m 329.32146,870.28503 55.5625,-19.84375"
-             id="path16351"
-             inkscape:connector-type="polyline"
-             inkscape:connector-curvature="0" />
           <rect
              style="fill:none;fill-opacity:1;stroke:#010000;stroke-width:0.116;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="rect18538"
@@ -2810,6 +2803,11 @@
              height="11.90625"
              x="298.81732"
              y="870.53503" />
+          <path
+             style="fill:none;stroke:#000000;stroke-width:0.26458105;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6286)"
+             d="m 340.98454,870.4164 28.35774,-19.81625"
+             id="path6258"
+             inkscape:connector-curvature="0" />
         </g>
         <g
            inkscape:label="#g5497"
@@ -2826,7 +2824,7 @@
                style="stroke-width:0.11642086"
                id="tspan16828">Braverman: Decidable over ℚ</tspan></text>
           <path
-             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker16154)"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458104;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker16154);stroke-miterlimit:4;stroke-dasharray:none"
              d="m 333.29021,826.62878 -11.90625,15.875"
              id="path16144"
              inkscape:connector-type="polyline"
@@ -2866,8 +2864,8 @@
                style="stroke-width:0.11642086"
                id="tspan16061">  Decidable for at most 4 variables</tspan></text>
           <path
-             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.36229575px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker16352)"
-             d="m 412.66521,830.59753 -19.84375,11.90625"
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.34394717px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker16352)"
+             d="m 406.34637,830.9279 -18.83876,11.30324"
              id="path16342"
              inkscape:connector-type="polyline"
              inkscape:connector-curvature="0" />
@@ -2892,7 +2890,7 @@
                x="366.19501"
                y="864.02783"
                style="stroke-width:0.11642086"
-               id="tspan16061-4">Ouaknine et al: Decidable over ℤ</tspan></text>
+               id="tspan16061-4">Hosseini et al: Decidable over ℤ</tspan></text>
           <rect
              style="fill:none;fill-opacity:1;stroke:#010000;stroke-width:0.116;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
              id="rect18608"
@@ -5942,8 +5940,8 @@
     </g>
   </g>
   <script
-     id="script857"
-     xlink:href="./d3.v5.min.js" />
+     xlink:href="./d3.v5.min.js"
+     id="script857" />
   <script
      xlink:href="./script.js"
      id="script858" />
