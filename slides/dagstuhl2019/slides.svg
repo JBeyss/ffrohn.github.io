@@ -25324,14 +25324,14 @@
      inkscape:groupmode="layer" />
   <script
      id="script236"
-     xlink:href="http://localhost:8082/d3.v5.min.js" />
+     xlink:href="./d3.v5.min.js" />
   <script
      id="script981"
-     xlink:href="http://localhost:8082/transformation-matrix.js" />
+     xlink:href="./transformation-matrix.js" />
   <script
      id="script992"
-     xlink:href="http://localhost:8082/preji.js" />
+     xlink:href="./preji.js" />
   <script
      id="script238"
-     xlink:href="http://localhost:8082/script.js" />
+     xlink:href="./script.js" />
 </svg>
