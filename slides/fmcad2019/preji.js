@@ -273,11 +273,11 @@ var preji = new function() {
         const Space = 32;
         const Return = 13;
 
-        // window.onclick = function(e) {
-        //     if (e.button == 0) {
-        //         next();
-        //     }
-        // }
+        window.onclick = function(e) {
+           if (e.button == 0) {
+               next();
+           }
+        }
 
         window.onkeyup = function(e) {
             var key = e.keyCode ? e.keyCode : e.which;
